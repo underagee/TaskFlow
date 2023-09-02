@@ -3,7 +3,7 @@
 
 TaskFlow is a user-friendly task management application designed to help you organize and manage your tasks effortlessly. Whether you're an individual seeking a straightforward task manager or a team collaborating on projects, TaskFlow has got you covered.
 
-![TaskFlow Screenshot](screenshot.png)
+
 
 ## Features
 
@@ -18,3 +18,50 @@ TaskFlow is a user-friendly task management application designed to help you org
 To get started with TaskFlow, follow these simple steps:
 
 1. Clone this repository to your local machine.
+
+ git clone https://github.com/underagee/TaskFlow.git
+
+ 
+2. Open the project directory in your preferred code editor.
+
+3. Run the application:
+npm install
+npm start
+
+
+4. TaskFlow will now be accessible in your web browser at `http://localhost:3000`.
+
+## Usage
+
+- **Creating Tasks:**
+- Click the "New Task" button to create a new task.
+- Fill in the task details, including title, description, due date, and priority.
+
+- **Managing Tasks:**
+- Use the task list to view, edit, and mark tasks as complete.
+- Sort tasks by due date or priority for efficient management.
+- Filter tasks by status to focus on what needs attention.
+
+- **Mobile Access:**
+- TaskFlow is responsive and works seamlessly on mobile devices, allowing you to manage tasks on the go.
+
+## Contributing
+
+We welcome contributions from the community. If you'd like to contribute to TaskFlow, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- We are grateful for the open-source community and the valuable contributions from developers worldwide.
+
+## Contact
+
+If you have any questions, feedback, or suggestions, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+
+---
+
+Thank you for choosing TaskFlow for your task management needs. We hope it simplifies your life and boosts your productivity.
+

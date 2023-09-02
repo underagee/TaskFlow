@@ -45,13 +45,7 @@ npm start
 - **Mobile Access:**
 - TaskFlow is responsive and works seamlessly on mobile devices, allowing you to manage tasks on the go.
 
-## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to TaskFlow, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -59,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to me at [jonathanhatekah18@gmail.com](mailto:jonathanhatekah18@gmail.com).
 
 ---
 
